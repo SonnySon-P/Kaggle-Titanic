@@ -17,4 +17,4 @@ Rscript hw.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/test.cs
 ```
 
 **競賽結果：**
-![titanicLeaderBoard](Match_Results.jpeg)
+![titanicLeaderBoard](Match_Results.jpg)

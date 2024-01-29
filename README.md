@@ -13,7 +13,7 @@
 2. n-fold cross-validation對訓練資料進行交叉驗證，以選擇最佳預測模型。
 
 ```R
-Rscript hw.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/test.csv --report performance.csv --predict predict.csv
+Rscript HW_Code.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/test.csv --report performance.csv --predict predict.csv
 ```
 
 **競賽結果：**

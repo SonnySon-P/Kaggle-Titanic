@@ -8,10 +8,13 @@
 
 **題目解說：** 主要使用機器學習創建一個模型，來預測哪些特徵的乘客，能在泰坦尼克號海難中倖存下來。
 
-**解題演算法：
+**解題演算法：**
 1. 使用SVM作為預測模型。
 2. n-fold cross-validation對訓練資料進行交叉驗證，以選擇最佳預測模型。
 
 ```R
-Rscript hw5_studentID.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/test.csv --report performance.csv --predict predict.csv
+Rscript hw.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/test.csv --report performance.csv --predict predict.csv
 ```
+
+**競賽結果：**
+![titanicLeaderBoard](Match_Results.jpeg)

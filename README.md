@@ -1,4 +1,4 @@
-# Kaggle-Titanic
+# Kaggle Competition - Titanic
 
 **作品名稱：** Kaggle中Titanic的競賽
 

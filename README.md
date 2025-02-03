@@ -1,6 +1,6 @@
 # Kaggle Competition - Titanic
 
-**作品名稱：** Kaggle中Titanic的競賽
+**作品名稱：** Kaggle競賽中Titanic生存預測
 
 **動機：** 該作品為本人在修讀資料科學課程時的作業，因為是參與Kaggle競賽來預測泰坦尼克號的生存，並熟悉機器學習與R語言基礎知識，特別整理於此。
 

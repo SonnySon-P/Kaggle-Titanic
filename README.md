@@ -20,6 +20,6 @@ Rscript HW_Code.R --fold n --train Titanic_Data/train.csv --test Titanic_Data/te
 **競賽結果：**
 <br>
 <div align="center">
-	<img src="./Match_Results.jpg" alt="Editor" width="700">
+	<img src="./Match_Results.jpg" alt="Editor" width="600">
 </div>
 <br>
